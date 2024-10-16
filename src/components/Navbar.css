@@ -24,3 +24,15 @@ ul li {
     margin: 0 1rem;
     cursor: pointer;
 }
+
+/* CELULAR */ 
+@media screen and (max-width: 600px) {
+    .logo {
+        padding: 1rem;
+    }
+
+    ul li {
+        margin: 0 .5rem;
+        
+    }
+}
